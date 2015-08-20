@@ -1,3 +1,8 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 It lets Git Bash know that this folder should be treated in a certain way
+
+How is the staging area different from the working directory and the 
+repository? What value do you think it offers?
+
+It is the RAM of git-world
